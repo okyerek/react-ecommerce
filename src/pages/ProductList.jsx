@@ -1,9 +1,9 @@
 import styled from "styled-components";
-import Announcement from "./Announcement";
-import Footer from "./Footer";
-import Navbar from "./Navbar";
-import NewsLetter from "./NewsLetter";
-import Products from "./Products";
+import Announcement from "../components/Announcement";
+import Footer from "../components/Footer";
+import Navbar from "../components/Navbar";
+import NewsLetter from "../components/NewsLetter";
+import Products from "../components/Products";
 
 const Container = styled.div`
     
