@@ -1,8 +1,8 @@
-import Home from "./pages/Home";
+import ProductList from "./components/ProductList";
 
 const App = () => {
   return <div>
-    <Home />
+    <ProductList />
   </div>;
 };
 
