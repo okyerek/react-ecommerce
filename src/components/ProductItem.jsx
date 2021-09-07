@@ -15,6 +15,7 @@ const InfoContainer = styled.div`
     align-items: center;
     z-index: 3;
     gap: 10px;
+    transition: all 0.5s ease;
 `
 
 const Container = styled.div`
