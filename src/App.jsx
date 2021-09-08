@@ -1,8 +1,8 @@
-import SingleProduct from "./pages/SingleProduct";
+import Login from "./pages/Login";
 
 const App = () => {
   return <div>
-    <SingleProduct />
+    <Login />
   </div>;
 };
 
